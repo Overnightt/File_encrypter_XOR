@@ -1,4 +1,4 @@
-# file_encrypter_XOR
+# File_encrypter_XOR
 
 A simple command-line file encrypter/decrypter written in C using XOR encryption.
 
